@@ -1,5 +1,5 @@
 {
-    "name": "axoloth/boltSimpleEntitiesCrud",
+    "name": "axoloth/bolt-simple-entities-crud.git",
     "description": "Simple extension using Doctrine entities.",
     "type": "bolt-extension",
     "license": "MIT",
